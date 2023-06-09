@@ -1,0 +1,178 @@
+html
+{
+    font-size: 62.5%;
+}
+
+.vector--style
+{
+    width: 2rem;
+    height: 2rem;
+}
+
+.vector--style-cart
+{
+    width: 4rem;
+    height: 4rem;
+}
+
+
+.body1
+{
+    font-size: var(--font-size-large);
+    line-height: 1.72;
+}
+
+.body2
+{
+    font-size: var(--font-size-medium);
+    line-height: 1.5;
+}
+
+.caption1
+{
+    font-size: var(--font-size-small);
+    line-height: 1.31;
+}
+
+.button-text
+{
+    font-size: var(--font-size-large);
+    line-height: 0.94;  
+}
+
+.heading0
+{
+    font-size: var(--font-size-h-exlarge);
+}
+
+.heading1
+{
+    font-size: var(--font-size-h-large);
+}
+
+.heading2
+{
+    font-size:  var(--font-size-h-medium);
+}
+
+.heading3
+{
+    font-size: var(--font-size-h-small);
+}
+
+.heading-lh
+{
+    line-height: var(--heading-line-height);
+}
+
+.a__style
+{
+    display: block;
+    height: 100%;
+}
+
+.t-decor--none
+{
+    text-decoration: none;
+}
+
+.l-style--none
+{
+    list-style-type: none;
+}
+
+.d-flex
+{
+    display: flex;
+}
+
+.d-flex--cl
+{
+    flex-direction: column;
+}
+
+.t-align--center
+{
+    text-align: center;
+}
+
+.a-item--center
+{
+    align-items: center;
+}
+
+.j-content--center
+{
+    justify-content: center;
+}
+
+.d-grid
+{
+    display: grid;
+}
+
+.font--ws
+{
+    font-weight: var(--font-weight);
+    font-style: normal;
+}
+
+.l-spacing--2
+{
+    letter-spacing: var(--letter-spacing-2);
+}
+
+.l-spacing--3
+{
+    letter-spacing: var(--letter-spacing-3);
+}
+
+.l-spacing--4
+{
+    letter-spacing: var(--letter-spacing-4);
+}
+
+.c-background1
+{
+    color: var(--color-background1);
+}
+
+.c-background2
+{
+    color: var(--color-background2);
+}
+
+.c-border-dark
+{
+    color: var(--color-border-dark);
+}
+
+.c-border-light
+{
+    color: var(--color-border-light);
+}
+
+.c-accent1
+{
+    color: var(--color-accent1);
+}
+
+.c-accent2
+{
+    color: var(--color-accent2);
+}
+
+.c-default-text
+{
+    color: var(--color-default-text);
+}
+
+.c-subdued-text
+{
+    color: var(--color-subdued-text);
+}
+
+.c-inverse-text
+{
+    color: var(--color-inverse-text);
+}
